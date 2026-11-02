@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <school>Algonquin</school>
+  <semester>F2026</semester>
+  <students>
+    <student id="d7fd5185-b9ab-42e4-b392-8906728161b5">
+      <fullname>emily johnson</fullname>
+      <username>john0001</username>
+      <program>1515x</program>
+      <someboolean>true</someboolean>
+      <empty>null</empty>
+      <age>43</age>
+      <courses>
+        <course code="mad9013" title="web design" />
+        <course code="mad9014" title="web development" />
+      </courses>
+    </student>
+    <student id="3f906a4d-7c25-47f3-afdb-68f08d374950">
+      <fullname>michael williams</fullname>
+      <username>will0002</username>
+      <program>1515x</program>
+      <courses>
+        <course code="mad9013" title="web design" />
+        <course code="mad9014" title="web development" />
+      </courses>
+    </student>
+  </students>
+</data>

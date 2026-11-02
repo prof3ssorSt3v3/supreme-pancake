@@ -1,0 +1,18 @@
+school: Algonquin
+semester: F2026
+students:
+  student:
+    id: d7fd5185-b9ab-42e4-b392-8906728161b5
+    fullname: emily johnson
+    username: john0001
+    program:
+    someboolean: true
+    empty: null
+    age: 43
+    courses:
+      - course:
+          code: mad9013
+          title: web design
+      - course:
+          code: mad9014
+          title: web development
